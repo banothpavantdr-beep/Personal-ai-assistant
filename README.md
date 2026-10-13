@@ -86,9 +86,13 @@ Distributed under the MIT License. See LICENSE for more information.
 Vamshi (vamshi-vfx)
 Founder, GrowthOS Telugu
 🔗 YouTube Channel : https://youtube.com/@growthos_telugu?si=dtMo5UzAOY9dTEp7
+
 🔗 LinkedIn Profile : https://www.linkedin.com/in/vamsikola-growthos/?isSelfProfile=true
+
 🔗 Instagram Profile : https://www.instagram.com/growth__os/
+
 🔗 Jarvis Mobile & PC Edition Guide : https://vamshi-vfx.github.io/Personal-ai-assistant/frontend/jarvis-build-log.html?menuhide=1790046100#episodes
+
 "Built with ❤️, demonstrating that powerful AI apps can be built with lightweight web stacks accessible to everyone."
 
 🙏 Acknowledgements
